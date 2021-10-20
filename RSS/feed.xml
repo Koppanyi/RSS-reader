@@ -1,0 +1,25 @@
+<news>
+    <item>
+        <title>
+        Politics
+        </title>
+        <description>
+        Daily news about politics
+        </description>
+        <link>
+        https://www.google.com
+        </link>
+    </item>
+
+    <item>
+        <title>
+        Valamis
+        </title>
+        <description>
+        Valami news about politics
+        </description>
+        <link>
+        https://www.google.com
+        </link>
+    </item>
+</news>

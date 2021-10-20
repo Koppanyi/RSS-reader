@@ -1,0 +1,20 @@
+#news {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-auto-rows: minmax(15rem, auto);
+    column-gap: 0.5rem;
+}
+@media screen and (max-width: 768px) {  /* tablet méret */
+    #news {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+    
+
+
+@media screen and (max-width: 450px) {  /* telefon méret */
+    #news {
+        grid-template-columns: 1fr;
+    }
+}
+    
